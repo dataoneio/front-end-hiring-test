@@ -1,6 +1,6 @@
 ## Front End Developer Challenge
 
-You will be consuming the Star Wars API to show some items in a table. The table will be sortable, and will be searchable. We are looking to evaluate your front-end dev skills in HTML, CSS, and JS.
+You will be consuming the Star Wars API(https://swapi.co/api/) to show some items in a table. The table will be sortable, and will be searchable. We are looking to evaluate your front-end dev skills in HTML, CSS, and JS.
 
 - Include the Font Awesome icon font in your CodePen (https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css) 
 - Include the Titillium Web font from Google Fonts (https://fonts.googleapis.com/css?family=Titillium+Web:200,600) 

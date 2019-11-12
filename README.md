@@ -29,7 +29,7 @@ You will be consuming the Star Wars API(https://swapi.co/api/) to show some item
 - Show empty state if there's no results from the search API
   - Show the Font Awesome warning icon
 
-- Show cards cotaining counts for total results, total droid, total human (same way for all types of species)
+- Show cards containing counts for total results, total droid, total human (same way for all types of species)
 
 ####  Build a frontend applicationusing one of the following:
 - Angular

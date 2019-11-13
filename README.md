@@ -53,12 +53,9 @@ what is being done? Does it follow any standards?
 - **UI/UX Aspect** How well your app presents ?
 - **Testing** How well tested your application is? Can you give some metrics?
 
-## Questions & Delivery
+## Questions
 
 If you have any questions to this challenge, please do reach out to us.
-
-The challenge should be delivered as a link to a public git repository (gitlab.com or bitbucket.com or github are preferred).
-
 
 ## Checklist
 
